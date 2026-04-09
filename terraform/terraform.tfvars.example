@@ -1,0 +1,5 @@
+project      = "commit-agentspace"
+dns_project  = "public-dns-377921"
+domain       = "gemini.commitgcp.dev"
+dns_zone     = "commitgcp-dev"
+redirect_url = "https://vertexaisearch.cloud.google.com/home/cid/58c30799-04ec-4073-ada2-fb20286fb41a"
